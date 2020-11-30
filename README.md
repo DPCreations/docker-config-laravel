@@ -10,3 +10,5 @@ Basic setup for Laravel with docker
 5. Run `docker-compose up -d` to run project, and access from localhost:8000
 6. To enter workspace enter `docker-compose exec workspace bash` from root. Simply run `exit` to quit.
 7. Build stuff!
+
+Not: if you're going to run multiple projects at once, these configurations will need to be changed a bit to serve that purpose.
